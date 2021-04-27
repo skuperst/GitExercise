@@ -8,5 +8,5 @@ PFKM             Human   PFKAM_HUMAN P08237 780
 Pfkm             Mouse   PFKAM_MOUSE P47857 780
 PFKM             Rat     PFKAM_RAT   P47858 780
 
-Crazy line
+Very crazy line
 Master 003
